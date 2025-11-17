@@ -1,0 +1,24 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [154] using StatReload
+INFO:     Started server process [156]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:47700 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:47712 - "GET /workspaces HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47712 - "GET /workspaces HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47724 - "GET /pages?workspace_id=691a8077f966d55b80390def HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52726 - "GET /workspaces HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52730 - "GET /workspaces HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52726 - "GET /pages?workspace_id=691a8077f966d55b80390def HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54336 - "GET /workspaces HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54352 - "GET /pages?workspace_id=691a8077f966d55b80390def HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54336 - "GET /workspaces HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60780 - "OPTIONS /github/connect HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60786 - "POST /github/connect HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60780 - "POST /github/connect HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60786 - "GET /workspaces HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60786 - "GET /workspaces HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60780 - "POST /github/connect HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60796 - "GET /pages?workspace_id=691a8076f966d55b80390dee HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60780 - "GET /workspaces HTTP/1.1" 200 OK
